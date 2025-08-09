@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- [![Andrii Hrytsenko profile views](https://u8views.com/api/v1/github/profiles/73461908/views/day-week-month-total-count.svg)](https://u8views.com/github/anryts)
--->
+[![Andrii Hrytsenko profile views](https://u8views.com/api/v1/github/profiles/73461908/views/day-week-month-total-count.svg)](https://u8views.com/github/anryts)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=compact&hide=jupyter%20notebook,bash,html,sql,css,javascript,dockerfile,cmake,makefile,powershell,scss,shell)](https://github.com/anryts/github-readme-stats)
 
 
