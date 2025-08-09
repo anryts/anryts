@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Two charts side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=compact&hide=jupyter%20notebook,bash,html,sql,css,javascript,dockerfile,cmake,makefile,powershell,scss,shell" alt="Top Languages" width="325" height="300" style="display: inline-block; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anryts&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="400" height="300" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=compact&hide=jupyter%20notebook,bash,html,sql,css,javascript,dockerfile,cmake,makefile,powershell,scss,shell" alt="Top Languages" width="325" style="display: inline-block; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anryts&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="465" style="display: inline-block;" />
 </p>
 
