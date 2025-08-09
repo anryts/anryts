@@ -1,20 +1,13 @@
-## Hi there 👋
+## Hello there 
 
-<!--
-**anryts/anryts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Stats counter on top, centered -->
+  <img src="https://u8views.com/api/v1/github/profiles/73461908/views/day-week-month-total-count.svg" alt="Andrii Hrytsenko profile views" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Andrii Hrytsenko profile views](https://u8views.com/api/v1/github/profiles/73461908/views/day-week-month-total-count.svg)](https://u8views.com/github/anryts)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=compact&hide=jupyter%20notebook,bash,html,sql,css,javascript,dockerfile,cmake,makefile,powershell,scss,shell)](https://github.com/anryts/github-readme-stats)
-
+<p align="center">
+  <!-- Two charts side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=compact&hide=jupyter%20notebook,bash,html,sql,css,javascript,dockerfile,cmake,makefile,powershell,scss,shell" alt="Top Languages" width="300" style="display: inline-block; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anryts&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="300" style="display: inline-block;" />
+</p>
 
