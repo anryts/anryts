@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 <!-- [![Andrii Hrytsenko profile views](https://u8views.com/api/v1/github/profiles/73461908/views/day-week-month-total-count.svg)](https://u8views.com/github/anryts)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=donut&hide=javascript,html,jupyter)](https://github.com/anryts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anryts&layout=donut&hide=jupyter%20notebook,bash,html,sql,css,javascript)](https://github.com/anryts/github-readme-stats)
+
